@@ -1,2 +1,2 @@
-# veolia-lote-assets
+# lote-assets
 Public images for Lote Navidad app
